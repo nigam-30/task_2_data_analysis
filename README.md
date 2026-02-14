@@ -107,7 +107,5 @@ Allows dynamic interaction and detailed segment-level analysis.
 - Applying storytelling principles in dashboard design.
 - Converting raw sales data into actionable insights.
 
----
 
-## 📁 Repository Structure
 
