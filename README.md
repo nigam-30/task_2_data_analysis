@@ -7,7 +7,7 @@ The objective was to create meaningful visualizations that communicate a compell
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used 
 - Power BI
 - Ecommerce_data.csv
 - Longitude & Latitude dataset (for state-level mapping)
